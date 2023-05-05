@@ -2,21 +2,108 @@
   .videoResponsive {
     background-color: aqua;
     width: 100%;
-    height: 315px;
+    height: auto;
 
   }
-  .video-player {
+  .video-player-mobil {
     width: 100%;
-    height: 400px;
+    height: 600px;
+    display: block;
+  }
+  .video-player-mobil-horizontal {
+
+    display: none;
+  }
+  .video-player-tablet {
+    display: none;
+  }
+  .video-player-desktop {
+    display: none;
+  }
+  @media screen and (min-width: 640px) {
+    .video-player-mobil {
+      display: none;
+    }
+    .video-player-mobil-horizontal {
+      width: 100%;
+      height: 400px;
+      display: block;
+    }
+    .video-player-desktop {
+      display: none;
+    }
+    .video-player-tablet {
+      display: none;
+    }
+
+  }
+
+  @media screen and (min-width: 768px) {
+    .video-player-tablet {
+      width: 100%;
+      height: 450px;
+      display: block;
+    }
+  }
+
+  @media screen and (min-width: 1024px) {
+    .video-player-desktop {
+      width: 100%;
+      height: 600px;
+      display: block;
+    }
   }
 </style>
 <div id="shopify-section-[id]" class="shopify-section videoResponsive">
-  {% if section.settings.videoo %}
+  {% if section.settings.video_mobil %}
 
-    <video autoplay muted>
+    <video
+      class="video-player-mobil"
+      autoplay
+      muted>
       <source
-        class="video-player"
-        src="{{ section.settings.videoo }}"
+        class="video-player-mobil"
+        src="{{ section.settings.video_mobil }}"
+        type="video/mp4">
+      Tu navegador no soporta la reproducción de videos.
+    </video>
+  {% endif %}
+
+  {% if section.settings.video_mobil_horizontal %}
+
+    <video
+      class="video-player-mobil-horizontal"
+      autoplay
+      muted>
+      <source
+        class="video-player-mobil-horizontal"
+        src="{{ section.settings.video_mobil_horizontal }}"
+        type="video/mp4">
+      Tu navegador no soporta la reproducción de videos.
+    </video>
+  {% endif %}
+  {% if section.settings.video_tablet %}
+
+    <video
+      class="video-player-tablet"
+      autoplay
+      muted>
+      <source
+        class="video-player-tablet"
+        src="{{ section.settings.video_tablet }}"
+        type="video/mp4">
+      Tu navegador no soporta la reproducción de videos.
+    </video>
+  {% endif %}
+  {% if section.settings.video_desktop %}
+
+    <video
+      class="video-player-desktop"
+      autoplay
+      muted>
+      <source
+        class="video-player-desktop"
+        src="{{ section.settings.video_desktop }}"
         type="video/mp4">
       Tu navegador no soporta la reproducción de videos.
     </video>
@@ -32,8 +119,20 @@
     "settings": [
       {
         "type": "text",
-        "id": "videoo",
-        "label": "videoResponsive"
+        "id": "video_mobil",
+        "label": "video Responsive Mobil"
+      }, {
+        "type": "text",
+        "id": "video_mobil_horizontal",
+        "label": "video Responsive Mobil Horizontal"
+      }, {
+        "type": "text",
+        "id": "video_tablet",
+        "label": "video Responsive Tablet"
+      }, {
+        "type": "text",
+        "id": "video_desktop",
+        "label": "video Responsive Desktop"
       }
     ],
     "presets": [
