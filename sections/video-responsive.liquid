@@ -1,5 +1,5 @@
 <style>
-    
+
   video::-webkit-media-controls-start-playback-button {
     display: none;
   }
@@ -51,7 +51,7 @@
     }
 
   }
-  @media  screen and (min-widht: 600px) {
+  @media screen and (min-widht: 600px) {
     .video-player-mobil {
       display: none;
     }
@@ -123,7 +123,7 @@
     </video>
   {% endif %}
 
-  {% elseif section.settings.video_mobil_horizontal %}
+  {% if section.settings.video_mobil_horizontal %}
 
     <video
       class="video-player-mobil-horizontal"
@@ -137,7 +137,7 @@
     </video>
   {% endif %}
 
-  {% elseif  section.settings.video_tablet %}
+  {% if section.settings.video_tablet %}
 
     <video
       class="video-player-tablet"
@@ -151,7 +151,7 @@
     </video>
   {% endif %}
 
-  {% elseif  section.settings.video_desktop %}
+  {% if section.settings.video_desktop %}
 
     <video
       class="video-player-desktop"
