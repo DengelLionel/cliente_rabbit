@@ -1,1 +1,517 @@
-{"sections":{"hero":{"type":"section-hero","blocks":{"banner-kicker":{"type":"kicker","disabled":true,"settings":{"kicker":"<p>Introducing<\/p>","enable_caps":true,"text_size":3}},"banner-heading":{"type":"heading","settings":{"title":"<p>SLOW - AGING SKIN CARE<\/p>","text_size":10}},"banner-button":{"type":"button","settings":{"link_text_1":"Blog","link_1":"shopify:\/\/collections\/nuestros-productos","button_size_1":"btn--long","button_style_1":"btn uppercase","button_color_1":"btn--white","link_text_2":"","link_2":"","button_size_2":"btn--long","button_style_2":"caps--link","button_color_2":"btn--neutral","link_text_3":"","link_3":"","button_size_3":"btn--long","button_style_3":"caps--link","button_color_3":"btn--white"}}},"block_order":["banner-kicker","banner-heading","banner-button"],"settings":{"image":"shopify:\/\/shop_images\/7.jpg","mobile_image":"shopify:\/\/shop_images\/19.jpg","height":"use_screen_two_thirds","overlay_opacity":15,"overlay_color":"rgba(0,0,0,0)","enable_overlay_text":true,"content_width":2000,"text_align":"align--middle-left","text_color":"text--black","color_bg":"hero__content--transparent","width":"wrapper--none","padding_top":0,"padding_bottom":0}},"tabs":{"type":"section-collection-tabs","blocks":{"tab-0":{"type":"collection","settings":{"collection":"nuestros-productos","title":"Rabbits&Dragons"}}},"block_order":["tab-0"],"settings":{"title":"Nuestros Productos","progress_bar":"mobile","grid_large":4,"grid_medium":3,"grid_mobile":1.1,"limit":9,"bg":"palette--light bg--accent","width":"wrapper--full","padding_top":36,"padding_bottom":36}},"9835175a-83f9-46ae-bee7-6e3b480c2735":{"type":"section-richtext","blocks":{"template--17921834418495__9835175a-83f9-46ae-bee7-6e3b480c2735-16823796679a4f78b3-1":{"type":"heading","settings":{"heading":"<p>Un Skin Care para envejecer lento<\/p>","text_size":14}}},"block_order":["template--17921834418495__9835175a-83f9-46ae-bee7-6e3b480c2735-16823796679a4f78b3-1"],"settings":{"align_text":"text-center","text_color":"text--neutral","bg":"palette--light bg--neutral","content_width":2000,"width":"wrapper","padding_top":148,"padding_bottom":148}},"807afd87-d0c8-4919-b007-f1f271e0b946":{"type":"section-video","settings":{"height":"use_screen_two_thirds","color_bg":"palette--light bg--neutral","video_link_bg":"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ec1e397c84ac4c55b85954489f2de120.mp4","object_position":"center-center","text_align":"align--middle-center","text_color":"text--white","overlay_opacity":15,"overlay_color":"#000000","enable_overlay_text":false,"width":"wrapper--none","padding_top":0,"padding_bottom":0}},"custom":{"type":"section-custom-content","blocks":{"abca3c2b-d725-4326-8faf-db7314e4362b":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/17.jpg","overlay_opacity":15,"overlay_color":"#000000","enable_overlay_text":false,"kicker":"","title":"","richtext":"","text_align":"align--middle-center","text_color":"text--white","link_text":"","link":"","button_color":"btn--white","button_style":"btn uppercase"}},"03ed2aeb-c817-401d-9191-05143eb1c0fd":{"type":"text","settings":{"kicker":"","title":"","text":"<p>Transforma tu piel con CELL CARE, nuestra tecnología que retrasa los signos de envejecimiento  y ayuda a tu piel a auto regenerarse. Logra una notable mejoría en deshidratación, arrugas, manchas, piel opaca, poros dilatados y flacidez con nuestro poderoso aliado en la lucha contra el envejecimiento prematuro.<\/p>","font_size":6,"text_columns":1,"align_text":"text-center","button_text":"","button_url":"","button_color":"btn--neutral","button_style":"caps--link","text_color":"text--neutral","bg_color":"#fcfaf7"}}},"block_order":["abca3c2b-d725-4326-8faf-db7314e4362b","03ed2aeb-c817-401d-9191-05143eb1c0fd"],"settings":{"height":"use_pixels_500","brick_gutter":20,"borders":false,"width":"wrapper--none","padding_top":36,"padding_bottom":36}},"icons":{"type":"section-icons","blocks":{"icons-0":{"type":"icon_block","settings":{"icon_name":"icon-email","icon_color":"#000000","title":"Email","text":"<p>contacto@rabbitsanddragons.com<\/p>","link_text":"","link_url":""}},"icons-1":{"type":"icon_block","settings":{"icon_name":"icon-earth","icon_color":"#000000","title":"Dirección","text":"<p>International<\/p>","link_text":"","link_url":""}},"icons-2":{"type":"icon_block","settings":{"icon_name":"icon-phone","icon_color":"#000000","title":"Teléfono","text":"<p>+57 3160249686.<\/p>","link_text":"","link_url":""}}},"block_order":["icons-0","icons-1","icons-2"],"settings":{"title":"","bg":"palette--light bg--accent","icon_size":"icon--medium","icon_alignment":"icon--top","layout":"grid--stacked","align_text":"text-center","width":"wrapper","padding_top":36,"padding_bottom":36}},"logos":{"type":"section-logos","blocks":{"logo-0":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/no_testeoenanimales.png","link":"","new_tab":true,"width":140,"spacing":50}},"logo-2":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/comesticos_limpios.png","link":"","new_tab":true,"width":140,"spacing":50}},"logo-3":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/noquimicos_tixicos.png","link":"","new_tab":true,"width":140,"spacing":50}},"logo-1":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/libre-de-silicona.png","link":"","new_tab":true,"width":140,"spacing":50}},"logo-4":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/no-acites_minerales.png","link":"","new_tab":true,"width":140,"spacing":50}},"5e565421-c2ab-4265-8dfd-619848df651d":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/no-frangancias_sinteticas.png","link":"","new_tab":true,"width":140,"spacing":50}},"cdaef3f8-9290-4f9b-b876-3c164451e43d":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/libre_dealcoholes.png","link":"","new_tab":true,"width":140,"spacing":50}}},"block_order":["logo-0","logo-2","logo-3","logo-1","logo-4","5e565421-c2ab-4265-8dfd-619848df651d","cdaef3f8-9290-4f9b-b876-3c164451e43d"],"settings":{"title":"","bg":"palette--light bg--neutral","enable_marquee":true,"marquee_speed":30,"width":"wrapper--none","padding_top":36,"padding_bottom":74}},"50706099-a761-4082-9656-7eb68d0d49aa":{"type":"section-slideshow","blocks":{"template--17921834418495__50706099-a761-4082-9656-7eb68d0d49aa-1682522453c4c35cdb-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/14.jpg","mobile_image":"shopify:\/\/shop_images\/16.jpg","overlay_opacity":15,"overlay_color":"rgba(0,0,0,0)","enable_overlay_text":false,"kicker":"","title":"","richtext":"","text_align":"align--middle-center","text_color":"text--black","link_text":"","link":"","button_color":"btn--neutral","button_style":"btn"}},"template--17921834418495__50706099-a761-4082-9656-7eb68d0d49aa-1682522453c4c35cdb-1":{"type":"image","settings":{"overlay_opacity":15,"overlay_color":"#000000","enable_overlay_text":false,"kicker":"Introducing","title":"Image slideshow","richtext":"<p>Tell your brand's story through images.<\/p>","text_align":"align--middle-center","text_color":"text--white","link_text":"View products","link":"","button_color":"btn--white","button_style":"btn"}},"0b887b36-2f03-46b9-8641-96b7d4bfb068":{"type":"image","settings":{"overlay_opacity":15,"overlay_color":"#000000","enable_overlay_text":false,"kicker":"","title":"","richtext":"","text_align":"align--middle-center","text_color":"text--white","link_text":"View products","link":"","button_color":"btn--white","button_style":"btn"}},"9464a864-6412-4fd9-b061-6310acb78a65":{"type":"image","settings":{"overlay_opacity":15,"overlay_color":"#000000","enable_overlay_text":false,"kicker":"Introducing","title":"Image slideshow","richtext":"<p>Tell your brand's story through images.<\/p>","text_align":"align--middle-center","text_color":"text--white","link_text":"View products","link":"","button_color":"btn--white","button_style":"btn"}},"d59ac911-ca52-4eaa-af7c-a760d22508ba":{"type":"image","settings":{"overlay_opacity":15,"overlay_color":"#000000","enable_overlay_text":false,"kicker":"Introducing","title":"Image slideshow","richtext":"<p>Tell your brand's story through images.<\/p>","text_align":"align--middle-center","text_color":"text--white","link_text":"View products","link":"","button_color":"btn--white","button_style":"btn"}},"bae9c8bc-dc2b-40b9-8170-ed5713854ded":{"type":"image","settings":{"overlay_opacity":15,"overlay_color":"#000000","enable_overlay_text":false,"kicker":"Introducing","title":"Image slideshow","richtext":"<p>Tell your brand's story through images.<\/p>","text_align":"align--middle-center","text_color":"text--white","link_text":"View products","link":"","button_color":"btn--white","button_style":"btn"}},"cdd9b89c-d2df-4536-aa5f-d2780ad3ecd3":{"type":"image","settings":{"overlay_opacity":15,"overlay_color":"#000000","enable_overlay_text":false,"kicker":"Introducing","title":"Image slideshow","richtext":"<p>Tell your brand's story through images.<\/p>","text_align":"align--middle-center","text_color":"text--white","link_text":"View products","link":"","button_color":"btn--white","button_style":"btn"}},"3654483f-93ff-401f-bf3f-80ada7d091ca":{"type":"image","settings":{"overlay_opacity":15,"overlay_color":"#000000","enable_overlay_text":false,"kicker":"Introducing","title":"Image slideshow","richtext":"<p>Tell your brand's story through images.<\/p>","text_align":"align--middle-center","text_color":"text--white","link_text":"View products","link":"","button_color":"btn--white","button_style":"btn"}},"86321841-fda7-4a05-acd1-034c58044e98":{"type":"image","settings":{"overlay_opacity":15,"overlay_color":"#000000","enable_overlay_text":false,"kicker":"Introducing","title":"Image slideshow","richtext":"<p>Tell your brand's story through images.<\/p>","text_align":"align--middle-center","text_color":"text--white","link_text":"View products","link":"","button_color":"btn--white","button_style":"btn"}}},"block_order":["template--17921834418495__50706099-a761-4082-9656-7eb68d0d49aa-1682522453c4c35cdb-0","template--17921834418495__50706099-a761-4082-9656-7eb68d0d49aa-1682522453c4c35cdb-1","0b887b36-2f03-46b9-8641-96b7d4bfb068","9464a864-6412-4fd9-b061-6310acb78a65","d59ac911-ca52-4eaa-af7c-a760d22508ba","bae9c8bc-dc2b-40b9-8170-ed5713854ded","cdd9b89c-d2df-4536-aa5f-d2780ad3ecd3","3654483f-93ff-401f-bf3f-80ada7d091ca","86321841-fda7-4a05-acd1-034c58044e98"],"settings":{"autoplay":false,"autoplay_speed":8,"height":"use_screen_two_thirds","color_bg":"palette--light bg--neutral","width":"wrapper--none","padding_top":0,"padding_bottom":36}}},"order":["hero","tabs","9835175a-83f9-46ae-bee7-6e3b480c2735","807afd87-d0c8-4919-b007-f1f271e0b946","custom","icons","logos","50706099-a761-4082-9656-7eb68d0d49aa"]}
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "blocks": {
+        "banner-kicker": {
+          "type": "kicker",
+          "disabled": true,
+          "settings": {
+            "kicker": "<p>Introducing<\/p>",
+            "enable_caps": true,
+            "text_size": 3
+          }
+        },
+        "banner-heading": {
+          "type": "heading",
+          "settings": {
+            "title": "<p>SLOW - AGING SKIN CARE<\/p>",
+            "text_size": 10
+          }
+        },
+        "banner-button": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "Blog",
+            "link_1": "shopify:\/\/collections\/nuestros-productos",
+            "button_size_1": "btn--long",
+            "button_style_1": "btn uppercase",
+            "button_color_1": "btn--white",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--long",
+            "button_style_2": "caps--link",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "caps--link",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "banner-kicker",
+        "banner-heading",
+        "banner-button"
+      ],
+      "settings": {
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 15,
+        "overlay_color": "rgba(0,0,0,0)",
+        "enable_overlay_text": true,
+        "content_width": 2000,
+        "text_align": "align--middle-left",
+        "text_color": "text--black",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "tabs": {
+      "type": "section-collection-tabs",
+      "blocks": {
+        "tab-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "nuestros-productos",
+            "title": "Rabbits&Dragons"
+          }
+        }
+      },
+      "block_order": [
+        "tab-0"
+      ],
+      "settings": {
+        "title": "Nuestros Productos",
+        "progress_bar": "mobile",
+        "grid_large": 4,
+        "grid_medium": 3,
+        "grid_mobile": 1.1,
+        "limit": 9,
+        "bg": "palette--light bg--accent",
+        "width": "wrapper--full",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9835175a-83f9-46ae-bee7-6e3b480c2735": {
+      "type": "section-richtext",
+      "blocks": {
+        "template--17921834418495__9835175a-83f9-46ae-bee7-6e3b480c2735-16823796679a4f78b3-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Un Skin Care para envejecer lento<\/p>",
+            "text_size": 14
+          }
+        }
+      },
+      "block_order": [
+        "template--17921834418495__9835175a-83f9-46ae-bee7-6e3b480c2735-16823796679a4f78b3-1"
+      ],
+      "settings": {
+        "align_text": "text-center",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 148,
+        "padding_bottom": 148
+      }
+    },
+    "807afd87-d0c8-4919-b007-f1f271e0b946": {
+      "type": "section-video",
+      "settings": {
+        "height": "use_screen_two_thirds",
+        "color_bg": "palette--light bg--neutral",
+        "video_link_bg": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ec1e397c84ac4c55b85954489f2de120.mp4",
+        "object_position": "center-center",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "overlay_opacity": 15,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom": {
+      "type": "section-custom-content",
+      "blocks": {
+        "abca3c2b-d725-4326-8faf-db7314e4362b": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "03ed2aeb-c817-401d-9191-05143eb1c0fd": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "",
+            "text": "<p>Transforma tu piel con CELL CARE, nuestra tecnología que retrasa los signos de envejecimiento  y ayuda a tu piel a auto regenerarse. Logra una notable mejoría en deshidratación, arrugas, manchas, piel opaca, poros dilatados y flacidez con nuestro poderoso aliado en la lucha contra el envejecimiento prematuro.<\/p>",
+            "font_size": 6,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--link",
+            "text_color": "text--neutral",
+            "bg_color": "#fcfaf7"
+          }
+        }
+      },
+      "block_order": [
+        "abca3c2b-d725-4326-8faf-db7314e4362b",
+        "03ed2aeb-c817-401d-9191-05143eb1c0fd"
+      ],
+      "settings": {
+        "height": "use_pixels_500",
+        "brick_gutter": 20,
+        "borders": false,
+        "width": "wrapper--none",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "icons": {
+      "type": "section-icons",
+      "blocks": {
+        "icons-0": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-email",
+            "icon_color": "#000000",
+            "title": "Email",
+            "text": "<p>contacto@rabbitsanddragons.com<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icons-1": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-earth",
+            "icon_color": "#000000",
+            "title": "Dirección",
+            "text": "<p>International<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icons-2": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-phone",
+            "icon_color": "#000000",
+            "title": "Teléfono",
+            "text": "<p>+57 3160249686.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "icons-0",
+        "icons-1",
+        "icons-2"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--accent",
+        "icon_size": "icon--medium",
+        "icon_alignment": "icon--top",
+        "layout": "grid--stacked",
+        "align_text": "text-center",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "logos": {
+      "type": "section-logos",
+      "blocks": {
+        "logo-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": "",
+            "new_tab": true,
+            "width": 140,
+            "spacing": 50
+          }
+        },
+        "logo-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": "",
+            "new_tab": true,
+            "width": 140,
+            "spacing": 50
+          }
+        },
+        "logo-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": "",
+            "new_tab": true,
+            "width": 140,
+            "spacing": 50
+          }
+        },
+        "logo-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": "",
+            "new_tab": true,
+            "width": 140,
+            "spacing": 50
+          }
+        },
+        "logo-4": {
+          "type": "logo_image",
+          "settings": {
+            "link": "",
+            "new_tab": true,
+            "width": 140,
+            "spacing": 50
+          }
+        },
+        "5e565421-c2ab-4265-8dfd-619848df651d": {
+          "type": "logo_image",
+          "settings": {
+            "link": "",
+            "new_tab": true,
+            "width": 140,
+            "spacing": 50
+          }
+        },
+        "cdaef3f8-9290-4f9b-b876-3c164451e43d": {
+          "type": "logo_image",
+          "settings": {
+            "link": "",
+            "new_tab": true,
+            "width": 140,
+            "spacing": 50
+          }
+        }
+      },
+      "block_order": [
+        "logo-0",
+        "logo-2",
+        "logo-3",
+        "logo-1",
+        "logo-4",
+        "5e565421-c2ab-4265-8dfd-619848df651d",
+        "cdaef3f8-9290-4f9b-b876-3c164451e43d"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--neutral",
+        "enable_marquee": true,
+        "marquee_speed": 30,
+        "width": "wrapper--none",
+        "padding_top": 36,
+        "padding_bottom": 74
+      }
+    },
+    "50706099-a761-4082-9656-7eb68d0d49aa": {
+      "type": "section-slideshow",
+      "blocks": {
+        "template--17921834418495__50706099-a761-4082-9656-7eb68d0d49aa-1682522453c4c35cdb-0": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "rgba(0,0,0,0)",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--black",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn"
+          }
+        },
+        "template--17921834418495__50706099-a761-4082-9656-7eb68d0d49aa-1682522453c4c35cdb-1": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "Introducing",
+            "title": "Image slideshow",
+            "richtext": "<p>Tell your brand's story through images.<\/p>",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "0b887b36-2f03-46b9-8641-96b7d4bfb068": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "9464a864-6412-4fd9-b061-6310acb78a65": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "Introducing",
+            "title": "Image slideshow",
+            "richtext": "<p>Tell your brand's story through images.<\/p>",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "d59ac911-ca52-4eaa-af7c-a760d22508ba": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "Introducing",
+            "title": "Image slideshow",
+            "richtext": "<p>Tell your brand's story through images.<\/p>",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "bae9c8bc-dc2b-40b9-8170-ed5713854ded": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "Introducing",
+            "title": "Image slideshow",
+            "richtext": "<p>Tell your brand's story through images.<\/p>",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "cdd9b89c-d2df-4536-aa5f-d2780ad3ecd3": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "Introducing",
+            "title": "Image slideshow",
+            "richtext": "<p>Tell your brand's story through images.<\/p>",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "3654483f-93ff-401f-bf3f-80ada7d091ca": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "Introducing",
+            "title": "Image slideshow",
+            "richtext": "<p>Tell your brand's story through images.<\/p>",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "86321841-fda7-4a05-acd1-034c58044e98": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "Introducing",
+            "title": "Image slideshow",
+            "richtext": "<p>Tell your brand's story through images.<\/p>",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "template--17921834418495__50706099-a761-4082-9656-7eb68d0d49aa-1682522453c4c35cdb-0",
+        "template--17921834418495__50706099-a761-4082-9656-7eb68d0d49aa-1682522453c4c35cdb-1",
+        "0b887b36-2f03-46b9-8641-96b7d4bfb068",
+        "9464a864-6412-4fd9-b061-6310acb78a65",
+        "d59ac911-ca52-4eaa-af7c-a760d22508ba",
+        "bae9c8bc-dc2b-40b9-8170-ed5713854ded",
+        "cdd9b89c-d2df-4536-aa5f-d2780ad3ecd3",
+        "3654483f-93ff-401f-bf3f-80ada7d091ca",
+        "86321841-fda7-4a05-acd1-034c58044e98"
+      ],
+      "settings": {
+        "autoplay": false,
+        "autoplay_speed": 8,
+        "height": "use_screen_two_thirds",
+        "color_bg": "palette--light bg--neutral",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "04b24bad-38b9-476e-8a9d-eea8b266bfb6": {
+      "type": "video-responsive",
+      "settings": {
+        "videoo": "https:\/\/www.youtube.com\/embed\/o3YadwGH0ZA"
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "tabs",
+    "9835175a-83f9-46ae-bee7-6e3b480c2735",
+    "807afd87-d0c8-4919-b007-f1f271e0b946",
+    "custom",
+    "icons",
+    "logos",
+    "50706099-a761-4082-9656-7eb68d0d49aa",
+    "04b24bad-38b9-476e-8a9d-eea8b266bfb6"
+  ]
+}
