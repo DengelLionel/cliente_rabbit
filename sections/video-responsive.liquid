@@ -107,7 +107,7 @@
     </video>
   {% endif %}
 
-  {% if section.settings.video_mobil_horizontal %}
+  {% elseif section.settings.video_mobil_horizontal %}
 
     <video
       class="video-player-mobil-horizontal"
@@ -120,7 +120,7 @@
       Tu navegador no soporta la reproducción de videos.
     </video>
   {% endif %}
-  {% if section.settings.video_tablet %}
+  {% elseif  section.settings.video_tablet %}
 
     <video
       class="video-player-tablet"
@@ -133,7 +133,7 @@
       Tu navegador no soporta la reproducción de videos.
     </video>
   {% endif %}
-  {% if section.settings.video_desktop %}
+  {% elseif  section.settings.video_desktop %}
 
     <video
       class="video-player-desktop"
