@@ -499,7 +499,10 @@
     "04b24bad-38b9-476e-8a9d-eea8b266bfb6": {
       "type": "video-responsive",
       "settings": {
-        "videoo": "https:\/\/res.cloudinary.com\/darps1cta\/video\/upload\/v1676564061\/sitioweb\/todo_shopify_eoogfu.mp4"
+        "video_mobil": "https:\/\/res.cloudinary.com\/darps1cta\/video\/upload\/v1676564061\/sitioweb\/todo_shopify_eoogfu.mp4",
+        "video_mobil_horizontal": "",
+        "video_tablet": "",
+        "video_desktop": ""
       }
     }
   },
