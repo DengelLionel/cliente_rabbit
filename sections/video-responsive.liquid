@@ -16,7 +16,7 @@
     overflow: hidden !important;
   }
   .videoResponsive {
-    background-color: aqua;
+    background-color: rgb(190, 197, 212);
     width: 100%;
     height: auto;
 
@@ -112,6 +112,7 @@
   {% if section.settings.video_mobil %}
 
     <video
+      preload="none"
       class="video-player-mobil"
       autoplay
       muted>
@@ -126,6 +127,7 @@
   {% if section.settings.video_mobil_horizontal %}
 
     <video
+      preload="none"
       class="video-player-mobil-horizontal"
       autoplay
       muted>
@@ -140,6 +142,7 @@
   {% if section.settings.video_tablet %}
 
     <video
+      preload="none"
       class="video-player-tablet"
       autoplay
       muted>
@@ -154,6 +157,7 @@
   {% if section.settings.video_desktop %}
 
     <video
+      preload="none"
       class="video-player-desktop"
       autoplay
       muted>
